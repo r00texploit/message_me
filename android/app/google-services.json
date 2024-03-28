@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "638384585932",
+    "project_id": "stack-astronant",
+    "storage_bucket": "stack-astronant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638384585932:android:052f0b5a72d47ac2255669",
+        "android_client_info": {
+          "package_name": "at.alkhatib.messageme_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638384585932-21fus4f38s3kopej5m8msnr0g8jg8aa4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVXCqIhRuYhe81hL8_A1D7c4qjSXxDfcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638384585932-21fus4f38s3kopej5m8msnr0g8jg8aa4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638384585932:android:6e56fb409db08d4a255669",
+        "android_client_info": {
+          "package_name": "com.halim.stack_astronant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638384585932-21fus4f38s3kopej5m8msnr0g8jg8aa4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVXCqIhRuYhe81hL8_A1D7c4qjSXxDfcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638384585932-21fus4f38s3kopej5m8msnr0g8jg8aa4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
